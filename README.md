@@ -12,7 +12,7 @@ Everything needed to build relief meshes is inside the installer. Nothing downlo
 
 ## What it does
 
-Eight relief engines, each suited to different work — round plates and medallions, flat wall panels, lettering, lace and feather detail. Every export is a watertight, manifold STL with a flat base, ready for Aspire, VCarve, Fusion or any CAM package.
+Seven relief engines, each suited to different work — round plates and medallions, flat wall panels, lettering, lace and feather detail. Every export is a watertight, manifold STL with a flat base, ready for Aspire, VCarve, Fusion or any CAM package.
 
 - Depth-map and photo input, with a live 3D preview
 - Physical sizing in millimetres, with relief height, base plate, prominence, plate bowl and crispness controls
@@ -28,7 +28,7 @@ Eight relief engines, each suited to different work — round plates and medalli
 ## Free and Pro
 
 - **Free:** Direct and Faithful engines, Compact and Lite tolerances, watertight STL export, no watermark, no account
-- **Pro:** the Pyramid, L0, ILS, TGHP, REPS-CW and Neural Smoothing engines, Precision and Standard tolerances, batch folders, AI 3D generation and command-line rendering — see [pricing](https://excesspronet.com/softwares/prorelief-studio/)
+- **Pro:** the Pyramid, L0, ILS, TGHP and REPS-CW engines, Precision and Standard tolerances, batch folders, AI 3D generation and command-line rendering — see [pricing](https://excesspronet.com/softwares/prorelief-studio/)
 
 ## Links
 
