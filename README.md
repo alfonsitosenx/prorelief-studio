@@ -6,7 +6,7 @@ Windows app by [Excess Pro Net LLC](https://excesspronet.com) that turns a depth
 
 ## Download
 
-**[Latest release](https://github.com/alfonsitosenx/prorelief-studio/releases/latest)** — `ProReliefStudio-4.1.0-Setup.exe` (218 MB)
+**[Latest release](https://github.com/alfonsitosenx/prorelief-studio/releases/latest)** — `ProReliefStudio-4.1.1-Setup.exe` (218 MB)
 
 Everything needed to build relief meshes is inside the installer. Nothing downloads on first run, and the relief engines work with no internet connection at all.
 
